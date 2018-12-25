@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276473943832",
+    "firebase_url": "https://mapbox-6d4a4.firebaseio.com",
+    "project_id": "mapbox-6d4a4",
+    "storage_bucket": "mapbox-6d4a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276473943832:android:b8a44363d8bba4bc",
+        "android_client_info": {
+          "package_name": "com.example.pranaykumar.mapboxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276473943832-0357p3k4t5mp7ql5q1p3einncimn7bo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranaykumar.mapboxapp",
+            "certificate_hash": "fc1612f57a87be54023c2e434da2b706bd6c3a5b"
+          }
+        },
+        {
+          "client_id": "276473943832-ghksgf7gcrtvpp3ee93tsce7i9v536km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClh3mJ2X3uGclAF2QUOKLDZ5fl7vvBDnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276473943832-ghksgf7gcrtvpp3ee93tsce7i9v536km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

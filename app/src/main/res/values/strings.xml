@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapBoxApp</string>
+    <string name="access_token">pk.eyJ1IjoicHJhbmF5LWFudWd1cnRpIiwiYSI6ImNqcHo1OWhhcDA4Zjg0MnN6Z2Y4aW1ydWUifQ.1h2k6DaWzmmoBJ3l8PXb8w</string>
+    <string name="user_location_permission_explanation">Please grant permission to access location</string>
+    <string name="user_location_permission_not_granted">location permission is needed</string>
+    <string name="draw_custom_marker_options_title">user1</string>
+    <string name="draw_custom_marker_options_snippet">currently active</string>
+    <string name="user_active">User is active</string>
+    <string name="prompt_message">Type a new message</string>
+    <string name="action_send">Send Message</string>
+    <string name="sign_in">Sign in or Log in</string>
+</resources>
